@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
    id = "com.phonegap.example2"
    version = "1.0.0">
    
- <name> app3 Bibliografía de la academía de programación de CBTis 16 </name>
+ <name> app6 Información sobre la Batalla de Puebla </name>
  
    <description>
-     Aplicacion que muestra informacion sobre la telefonia celular.
+     Aplicacion que muestra informacion sobre la Batalla de Puebla
 	 </description>
 	 
 	 <author href="https://build.phonegap.com" email="anayenci.lopez.flores.cbtis16@gmail.com">
